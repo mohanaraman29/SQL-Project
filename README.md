@@ -21,6 +21,7 @@ Kaggle
 - Customer Table
 - Sales Table
 - Products Table
+- City Table
 
 ### Business Questions to Ask:
 
