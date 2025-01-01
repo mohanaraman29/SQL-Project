@@ -1,2 +1,2 @@
 # SQL-Project
-Sales Analysis of "Monday Coffee" Company
+# Sales Analysis of "Monday Coffee" Company
